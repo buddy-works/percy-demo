@@ -18,6 +18,20 @@ You will need the following things properly installed on your computer.
 * `cd percy`
 * `npm install`
 
+## Testing
+
+Run all tests:
+
+```
+npm test
+```
+
+Run tests and upload snapshots to percy
+
+```
+PERCY_TOKEN=your-token npm test
+```
+
 ## Running / Development
 
 * `ember serve`
