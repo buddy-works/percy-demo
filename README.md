@@ -1,4 +1,7 @@
-# percy
+# Percy.io demo
+
+[![buddy branch](https://app.buddy.works/buddy-works/percy-demo/repository/branch/master/badge.svg?token=6fef7735534f7f297de0ec15826a916542070669eddb03fc5f6f44b469022918 "buddy branch")](https://app.buddy.works/buddy-works/percy-demo/repository/branch/master)
+[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/buddy-works/percy-demo)
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
